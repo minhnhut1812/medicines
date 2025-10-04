@@ -6,8 +6,20 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^7.0.0",
-    "cors": "^2.8.5"
-  }
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhnhut1812/dulieu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhnhut1812/dulieu/issues"
+  },
+  "homepage": "https://github.com/minhnhut1812/dulieu#readme"
 }
