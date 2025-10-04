@@ -8,7 +8,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // ===== KẾT NỐI MONGODB ATLAS =====
-const MONGO_URI = process.env.MONGODB_URI || "mongodb+srv://minhnhut1812:minhnhut1812@mongodb.bscelgh.mongodb.net/?retryWrites=true&w=majority&appName=mongoDB";
+const MONGO_URI = process.env.MONGODB_URI || "mongodb+srv://mnhut986958:mnhut986958@database.cxztmwh.mongodb.net/?retryWrites=true&w=majority&appName=database";
 
 mongoose
   .connect(MONGO_URI)
